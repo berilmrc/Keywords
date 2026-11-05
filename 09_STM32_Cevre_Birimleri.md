@@ -1,4 +1,4 @@
-<p align="center"><img src="gorseller/09-baslik.svg" alt="🔌 STM32 Çevre Birimleri · 21 keyword" width="100%"></p>
+<p align="center"><img src="gorseller/09-baslik.svg" alt="🔌 STM32 Çevre Birimleri · 30 keyword" width="100%"></p>
 
 <p align="center"><a href="08_MCU_Mimarisi_ve_Bellek.md"><img src="gorseller/09-onceki.svg" alt="Önceki: MCU Mimarisi ve Bellek" width="33%" align="top"></a><a href="README.md"><img src="gorseller/tum-gruplar.svg" alt="Tüm gruplar" width="33%" align="top"></a><a href="10_Yazilim_ve_Gelistirme_Araclari.md"><img src="gorseller/09-sonraki.svg" alt="Sonraki: Yazılım ve Geliştirme Araçları" width="33%" align="top"></a></p>
 
@@ -28,5 +28,14 @@
 19. Push-Pull
 20. Open Drain
 21. IDR
+22. BSRR
+23. Floating
+24. Wired-AND
+25. Alternate Function
+26. AFIO
+27. CRL - CRH
+28. WWDG
+29. PWR
+30. Bit-banding
 
 </details>
