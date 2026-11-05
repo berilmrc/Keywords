@@ -24,8 +24,8 @@
 15. Doğruluk
 16. Çözünürlük
 17. Toplam hata bandı (TEB)
-18. TUR
-19. Dahili ASIC
+18. TUR (Test Uncertainty Ratio)
+19. Dahili ASIC (Application-Specific Integrated Circuit)
 20. 4-20 mA Akım Döngüsü
 
 </details>

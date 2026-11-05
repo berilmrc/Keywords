@@ -13,9 +13,9 @@
 4. Dekuplaj - bulk kondansatör
 5. Regülatör (lineer)
 6. Sigorta
-7. TO-220 kılıf
-8. Delikli plaket - PCB
-9. GND
-10. VDD - VSS
+7. TO-220 (Transistor Outline) kılıf
+8. Delikli plaket - PCB (Printed Circuit Board)
+9. GND (Ground, toprak)
+10. VDD - VSS (Drain / Source besleme gerilimi)
 
 </details>

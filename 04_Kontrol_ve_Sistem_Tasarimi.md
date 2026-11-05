@@ -12,7 +12,7 @@
 3. Histerezis
 4. Aşım
 5. Interlock
-6. FSM
+6. FSM (Finite State Machine)
 7. Kavramsal tasarım
 8. V Modeli
 

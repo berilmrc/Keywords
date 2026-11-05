@@ -7,24 +7,24 @@
 <details>
 <summary>📄 Metin olarak göster</summary>
 
-1. HAL
-2. LL
+1. HAL (Hardware Abstraction Layer)
+2. LL (Low Layer)
 3. Bare Metal
 4. Framework
 5. CubeMX
-6. IDE
+6. IDE (Integrated Development Environment)
 7. Handle
 8. While(1)
 9. Debug
 10. Breakpoint
-11. SWD
-12. OpenOCD
-13. JTAG
+11. SWD (Serial Wire Debug)
+12. OpenOCD (Open On-Chip Debugger)
+13. JTAG (Joint Test Action Group)
 14. Instance
 15. Debug Probe (ST-Link)
 16. Boundary Scan
 17. Daisy Chain
-18. SWO
+18. SWO (Serial Wire Output)
 19. CoreSight
 20. Callback
 

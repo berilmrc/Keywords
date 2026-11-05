@@ -8,14 +8,14 @@
 <summary>📄 Metin olarak göster</summary>
 
 1. H-köprüsü
-2. PWM
+2. PWM (Pulse Width Modulation)
 3. Duty Cycle
-4. MOSFET - R_DS(on)
+4. MOSFET (Metal-Oxide-Semiconductor FET) - R_DS(on)
 5. Lojik seviye MOSFET
 6. Eşik gerilimi V_GS(th)
 7. Gate direnci - gate kapasitesi
 8. Düşük - yüksek taraf anahtarlama
-9. Darlington BJT
+9. Darlington BJT (Bipolar Junction Transistor)
 10. Flyback diyot
 11. Schottky diyot
 12. Röle
