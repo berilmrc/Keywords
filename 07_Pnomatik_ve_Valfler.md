@@ -9,7 +9,7 @@
 
 1. Çek valf
 2. Seri - paralel pompa bağlantısı
-3. NC - NO
+3. NC - NO (Normally Closed - Normally Open)
 4. Direkt etkili vs pilot kumandalı valf
 5. Orifis
 

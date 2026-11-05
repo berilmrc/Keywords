@@ -7,35 +7,35 @@
 <details>
 <summary>📄 Metin olarak göster</summary>
 
-1. GPIO
-2. MODER
-3. ODR
-4. LED
+1. GPIO (General Purpose Input/Output)
+2. MODER (Mode Register)
+3. ODR (Output Data Register)
+4. LED (Light Emitting Diode)
 5. Blink
-6. TIM
-7. ARR
-8. CCR
+6. TIM (Timer)
+7. ARR (Auto-Reload Register)
+8. CCR (Capture/Compare Register)
 9. Prescaler
 10. SysTick
-11. RTC
+11. RTC (Real-Time Clock)
 12. Interrupt
-13. EXTI
-14. ISR
-15. NVIC
+13. EXTI (External Interrupt)
+14. ISR (Interrupt Service Routine)
+15. NVIC (Nested Vectored Interrupt Controller)
 16. Watchdog
-17. IWDG
+17. IWDG (Independent Watchdog)
 18. Polling
 19. Push-Pull
 20. Open Drain
-21. IDR
-22. BSRR
+21. IDR (Input Data Register)
+22. BSRR (Bit Set/Reset Register)
 23. Floating
 24. Wired-AND
 25. Alternate Function
-26. AFIO
-27. CRL - CRH
-28. WWDG
-29. PWR
+26. AFIO (Alternate Function I/O)
+27. CRL - CRH (Configuration Register Low / High)
+28. WWDG (Window Watchdog)
+29. PWR (Power Control)
 30. Bit-banding
 
 </details>

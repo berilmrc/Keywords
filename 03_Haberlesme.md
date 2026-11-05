@@ -7,29 +7,29 @@
 <details>
 <summary>📄 Metin olarak göster</summary>
 
-1. UART
+1. UART (Universal Asynchronous Receiver-Transmitter)
 2. Baud Rate
-3. Bps
+3. Bps (Bits per second)
 4. Parite biti
-5. ASCII
-6. CRC16
+5. ASCII (American Standard Code for Information Interchange)
+6. CRC16 (Cyclic Redundancy Check)
 7. Senkron - Asenkron
 8. Half-duplex - full-duplex
-9. RS232
-10. RS422
-11. RS485
-12. TTL
-13. USB-UART
-14. VBUS
-15. SIE
-16. DTR
-17. FIFO
-18. SPI
-19. I2C
-20. Modbus RTU
-21. Modbus TCP-IP
-22. OSI Katmanları
-23. USART
-24. CAN
+9. RS232 (Recommended Standard 232)
+10. RS422 (Recommended Standard 422)
+11. RS485 (Recommended Standard 485)
+12. TTL (Transistor-Transistor Logic)
+13. USB-UART (Universal Serial Bus - UART)
+14. VBUS (USB besleme hattı)
+15. SIE (Serial Interface Engine)
+16. DTR (Data Terminal Ready)
+17. FIFO (First In, First Out)
+18. SPI (Serial Peripheral Interface)
+19. I2C (Inter-Integrated Circuit)
+20. Modbus RTU (Remote Terminal Unit)
+21. Modbus TCP-IP (Transmission Control Protocol / Internet Protocol)
+22. OSI Katmanları (Open Systems Interconnection)
+23. USART (Universal Synchronous/Asynchronous Receiver-Transmitter)
+24. CAN (Controller Area Network)
 
 </details>

@@ -7,10 +7,10 @@
 <details>
 <summary>📄 Metin olarak göster</summary>
 
-1. ADC
-2. SAR ADC
+1. ADC (Analog-to-Digital Converter)
+2. SAR ADC (Successive Approximation Register)
 3. Delta-Sigma ADC
-4. DSP
+4. DSP (Digital Signal Processing)
 5. Diferansiyel sinyal
 6. Schmitt Trigger
 7. Comparator
