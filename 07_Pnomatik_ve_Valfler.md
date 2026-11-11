@@ -1,4 +1,4 @@
-<p align="center"><img src="gorseller/07-baslik.svg" alt="🌀 Pnömatik ve Valfler · 5 keyword" width="100%"></p>
+<p align="center"><img src="gorseller/07-baslik.svg" alt="🌀 Pnömatik ve Valfler · 10 keyword" width="100%"></p>
 
 <p align="center"><a href="06_Guc_Dagitimi_ve_Devre.md"><img src="gorseller/07-onceki.svg" alt="Önceki: Güç Dağıtımı ve Devre" width="33%" align="top"></a><a href="README.md"><img src="gorseller/tum-gruplar.svg" alt="Tüm gruplar" width="33%" align="top"></a><a href="08_MCU_Mimarisi_ve_Bellek.md"><img src="gorseller/07-sonraki.svg" alt="Sonraki: MCU Mimarisi ve Bellek" width="33%" align="top"></a></p>
 
@@ -12,5 +12,10 @@
 3. NC - NO (Normally Closed - Normally Open)
 4. Direkt etkili vs pilot kumandalı valf
 5. Orifis
+6. Solenoid valf
+7. Havalandırma - tahliye (Venting)
+8. Ölü hacim (Dead volume)
+9. Pnömatik kapasite (Compliance)
+10. Stiction (Yapışma)
 
 </details>

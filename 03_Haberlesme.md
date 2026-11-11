@@ -1,4 +1,4 @@
-<p align="center"><img src="gorseller/03-baslik.svg" alt="📡 Haberleşme · 24 keyword" width="100%"></p>
+<p align="center"><img src="gorseller/03-baslik.svg" alt="📡 Haberleşme · 29 keyword" width="100%"></p>
 
 <p align="center"><a href="02_ADC_ve_Sinyal.md"><img src="gorseller/03-onceki.svg" alt="Önceki: ADC ve Sinyal" width="33%" align="top"></a><a href="README.md"><img src="gorseller/tum-gruplar.svg" alt="Tüm gruplar" width="33%" align="top"></a><a href="04_Kontrol_ve_Sistem_Tasarimi.md"><img src="gorseller/03-sonraki.svg" alt="Sonraki: Kontrol ve Sistem Tasarımı" width="33%" align="top"></a></p>
 
@@ -31,5 +31,10 @@
 22. OSI Katmanları (Open Systems Interconnection)
 23. USART (Universal Synchronous/Asynchronous Receiver-Transmitter)
 24. CAN (Controller Area Network)
+25. Master - Slave (Client - Server)
+26. Fonksiyon kodu (Function code)
+27. Holding register
+28. Zaman aşımı (Timeout)
+29. Telemetri
 
 </details>
